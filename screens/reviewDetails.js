@@ -5,7 +5,7 @@ import { globalStyles } from '../styles/global';
 
 export default function ReviewDetails() {
     return (
-        <View globalStyles={styles.container}>
+        <View style={globalStyles.container}>
             <Text>ReviewDetails Screen</Text>
         </View>
     )
