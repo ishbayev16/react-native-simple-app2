@@ -3,3 +3,6 @@
 npm install react-navigation-drawer => for drawer navigation
 
 npm install formik => form inside modal
+
+npm install yup => form input validation
+
